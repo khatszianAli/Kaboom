@@ -5,6 +5,7 @@
 
 
 ---
+<img src="https://github.com/khatszianAli/Kaboom/blob/main/SimulatorScreenRecording-iPhone16Pro-2025-12-24at12.19.05-ezgif.com-video-to-gif-converter.gif" width ="700px">
 
 ##  Features
 
